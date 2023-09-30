@@ -1,0 +1,52 @@
+<style>
+li{
+    background-color:yellow;
+color: yellow;
+padding: 300px;
+
+}body{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+background-image:url(../index/m2.jpg);
+background-size: cover;
+background-attachment: fixed;
+color:white;
+}
+li,h1,ul
+{
+    display: inline;
+}
+ul
+{
+    margin-left:70%;
+}
+li
+{
+    
+    color:white;
+}
+li:hover
+{
+    color:yellow;
+}
+input{width: 40%;
+padding: 2px;
+}
+.searchbar{
+    padding: 50px;
+}
+.box{border-color:skyblue;
+border-width: 10px;
+border-style: solid;
+display: inline-block;
+width: 200px;
+}
+.box:hover{background-color: rgb(99, 38, 38);
+color: yellow;
+}
+.products
+{
+    text-align: left;
+}
+.about{text-align: center;
+    margin-top: 200px;
+}
